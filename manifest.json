@@ -1,0 +1,12 @@
+{
+  "name": "minimum",
+  "display": "standalone",
+  "start_url": "https://foo.bar/index.html",
+  "icons": [
+    {
+      "type": "image/png",
+      "src": "icon-512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
